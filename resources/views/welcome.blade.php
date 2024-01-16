@@ -10,6 +10,7 @@
 
 <body>
     <h1>BELAJAR REMOTE GITHUB</h1>
+    <h2>Hari ke 2 belajar remote github</h2>
 </body>
 
 </html>
